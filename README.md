@@ -51,7 +51,7 @@ Aula 0.2: Revisão. <br>
   - Lista 6: . <br>
 
 ## Bibliografia
-
+<!--
 ### Bibliografia básica:
 
 - GUJARATI, Damodar N. Econometria básica. 5. ed. São Paulo: Makron Books do Brasil, 2011. <br>
@@ -65,3 +65,4 @@ Aula 0.2: Revisão. <br>
  - SCHMIDT, Cristiane Alkmin Junqueira (Org) et al. Estatística: questões Anpec. 5ª Ed. Rio de Janeiro: Elsevir, 2015. <br>
  - Wooldridge, J.M. Introdução à Econometria – Uma abordagem Moderna. Ed. Thomson, 2006. <br>
  - Griffiths, W.; Hill, C.; Judge, G.G. Econometria. Ed Saraiva.
+-->
