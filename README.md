@@ -15,8 +15,8 @@ A avaliação será composta por 2 provas, que corresponderão a 70% da nota fin
 
 As notas de aula serão atualizadas à medida que o curso avançar.
 
-[Aula 0.1](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula01.pdf): Revisão de Inferência Estatística. <br>
-[Aula 0.2](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula02.pdf): Introdução. <br>
+Aula 0.1: Introdução. <br>
+Aula 0.2: Revisão. <br>
 
 **Parte 1**: <br>
   - Módulo 1
