@@ -4,9 +4,12 @@ Material de apoio para a disciplina [Inferência Estatística](https://emap.fgv.
 
 ## Avaliação
 
+A avaliação será composta por 2 provas, que corresponderão a 70% da nota final, e por 6 listas, que corresponderão a 30% da nota final.
+<!--
 **Provas**: A1 e A2 (70%) <br>
 **Listas**: L1 - L6 <br>
 **Nota Final**: 0.2 x max{AC1,AC2} + 0.35 x A1 + 0.35 x A2 <br>
+-->
 
 ## Notas de Aula
 
