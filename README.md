@@ -1,15 +1,12 @@
-# Econometria I
+# Inferência Estatística (MSc)
 
-**Objetivos**: Estudar os modelos de regressão linear simples e múltipla aplicados a problemas econômicos com dados em corte transversal, bem como a solução de problemas a partir da não validade de premissas básicas do modelo clássico.
-
-**Ementa**: Regressão Linear Simples; Mínimos Quadrados Ordinários; Regressão múltipla: estimação, inferência; Formas funcionais; Testes de hipótese assintóticos: Wald, Razão de Verossimilhança (RV) e Multiplicador de Lagrange (ML); Violação de hipóteses: inclusão de variáveis irrelevantes, omissão de variáveis relevantes, autocorrelação, heterocedasticidade, multicolinearidade, não normalidade; Variáveis binárias: teste de estabilidade dos parâmetros, modelos probit, logit; Variáveis truncadas: modelo Tobit; Sistema de Equações Simultâneas.
+Material de apoio para a disciplina [Inferência Estatística](https://emap.fgv.br/disciplina/inferencia-estatistica), ministrada no Programa de pós-graduação em Modelagem Matemática da Escola de Matemática Aplicada da Fundação Getulio Vargas (FGV/EMAp).
 
 ## Avaliação
 
-**Avaliações Parciais**: AP1 e AP2 <br>
-**Avaliação Contínua**: AC1 e AC2  <br>
-<!-- **Trabalho** (Opcional): TE1 e TE2 <br> -->
-**Nota Final**: 0.2 x max{AC1,AC2} + 0.4 x AP1 + 0.4 x AP2 <br>
+**Provas**: A1 e A2 (70%) <br>
+**Listas**: L1 - L6 <br>
+**Nota Final**: 0.2 x max{AC1,AC2} + 0.35 x A1 + 0.35 x A2 <br>
 
 ## Notas de Aula
 
