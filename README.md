@@ -19,24 +19,36 @@ As notas de aula serão atualizadas à medida que o curso avançar.
 [Aula 0.2](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula02.pdf): Introdução. <br>
 
 **Parte 1**: <br>
+  - Módulo 1
+  - Módulo 2
+  - Módulo 3
+<!--
   - [Aula 1.1](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula11.pdf): Regressão Linear Simples e Mínimos Quadrados Ordinários. <br>
   - [Aula 1.2](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula12.pdf): Regressão Linear Múltipla (Estimação e Inferência). <br>
      - [Análise de Resíduos](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula12_analise_residuos.pdf)
   - [Aula 1.3](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula13.pdf): Testes de hipótese assintóticos. <br>
+-->
 
 **Parte 2**: <br>
+  - Módulo 4
+  - Módulo 5
+  - Módulo 6
+<!--
   - [Aula 2.1](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula21.pdf): Variáveis Binárias - Modelos Probit e Logit. <br>
      - [Exemplo](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula21_exemplo.pdf): Participação da Mulher no Mercado de Trabalho
   - [Aula 2.2](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula22.pdf): Variáveis Truncadas - Modelo Tobit. <br>
   - [Aula 2.3](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula23.pdf): Sistema de Equações Simultâneas.
+-->
 <!--  - [Exemplo](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula12_analise_residuos.pdf)  -->
+
 ## Listas de Exercícios
 
-  - [Lista 1](https://github.com/marcuslavagnole/econometria_i/blob/main/listas/Lista1.pdf): Regressão Linear Simples. <br>
-  - [Lista 2](https://github.com/marcuslavagnole/econometria_i/blob/main/listas/Lista2.pdf): Regressão Linear Múltipla. <br>
-  - [Lista 3](https://github.com/marcuslavagnole/econometria_i/blob/main/listas/Lista3.pdf): Variáveis Binárias - Modelos Probit e Logit. <br>
-  - [Lista 4](https://github.com/marcuslavagnole/econometria_i/blob/main/listas/Lista4.pdf): Variáveis Truncadas - Modelo Tobit. <br>
-  - [Lista 5](https://github.com/marcuslavagnole/econometria_i/blob/main/listas/Lista5.pdf): Sistema de Equações Simultâneas.
+  - Lista 1: . <br>
+  - Lista 2: . <br>
+  - Lista 3: . <br>
+  - Lista 4: . <br>
+  - Lista 5: . <br>
+  - Lista 6: . <br>
 
 ## Bibliografia
 
