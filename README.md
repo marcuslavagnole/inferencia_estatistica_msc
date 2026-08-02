@@ -22,38 +22,19 @@ As notas de aula serão atualizadas à medida que o curso avançar.
 **Introdução**: Modelo estatístico, distribuições discretas e contínuas, famílias exponencial, famílias locação e escala.
 
 ### Parte I - Princípios Fundamentais da Inferência
+    - Princípio da suficiência
+    - Princípio da verossimilhança;
+    - Princípio da equivariância;
+    - Inferência bayesiana.
 
-#### Princípios de Redução de Dados
-
-**Parte 1**: <br>
-  - Princípios de redução de dados.
-    - Suficiência;
-    - Verossimilhança;
-    - Equivariância.
-  - Inferência bayesiana.
-  - Estimação pontual.
+### Parte II - Estimação pontual
     - Métodos de estimação;
-    - Avaliação de estimadores (amostra finita);
-    - Método delta;
-    - Avaliação de estimadores (assintóticos).
-<!--
-  - [Aula 1.1](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula11.pdf): Regressão Linear Simples e Mínimos Quadrados Ordinários. <br>
-  - [Aula 1.2](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula12.pdf): Regressão Linear Múltipla (Estimação e Inferência). <br>
-     - [Análise de Resíduos](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula12_analise_residuos.pdf)
-  - [Aula 1.3](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula13.pdf): Testes de hipótese assintóticos. <br>
--->
+    - Propriedades em Amostra Finita;
+    - Propriedades Assintóticas.
 
-**Parte 2**: <br>
-  - Módulo 4
-  - Módulo 5
-  - Módulo 6
-<!--
-  - [Aula 2.1](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula21.pdf): Variáveis Binárias - Modelos Probit e Logit. <br>
-     - [Exemplo](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula21_exemplo.pdf): Participação da Mulher no Mercado de Trabalho
-  - [Aula 2.2](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula22.pdf): Variáveis Truncadas - Modelo Tobit. <br>
-  - [Aula 2.3](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula23.pdf): Sistema de Equações Simultâneas.
--->
-<!--  - [Exemplo](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula12_analise_residuos.pdf)  -->
+### Parte III - Testes de Hipóteses
+
+### Parte IV - Estimação intervalar
 
 ## Listas de Exercícios
 
