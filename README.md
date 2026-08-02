@@ -27,6 +27,7 @@ Aula 0.2: Introdução. <br>
   - Estimação pontual.
     - Métodos de estimação;
     - Avaliação de estimadores (amostra finita);
+    - Método delta;
     - Avaliação de estimadores (assintóticos).
 <!--
   - [Aula 1.1](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula11.pdf): Regressão Linear Simples e Mínimos Quadrados Ordinários. <br>
