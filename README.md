@@ -15,7 +15,7 @@ A avaliação será composta por 2 provas, que corresponderão a 80% da nota fin
 
 As notas de aula serão atualizadas à medida que o curso avançar.
 
-**Revisão**: 
+### Revisão: 
 
     - Conceitos fundamentais e convergência.
 
