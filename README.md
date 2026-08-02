@@ -15,13 +15,19 @@ A avaliação será composta por 2 provas, que corresponderão a 80% da nota fin
 
 As notas de aula serão atualizadas à medida que o curso avançar.
 
-Aula 0.1: Introdução. <br>
-Aula 0.2: Revisão. <br>
+Aula 0.1: Revisão. <br>
+Aula 0.2: Introdução. <br>
 
 **Parte 1**: <br>
-  - Módulo 1
-  - Módulo 2
-  - Módulo 3
+  - Módulo 1: Princípios de redução de dados.
+    - Suficiência;
+    - Verossimilhança;
+    - Equivariância.
+  - Módulo 2: Inferência bayesiana.
+  - Módulo 3: Estimação pontual.
+    - Métodos de estimação;
+    - Avaliação de estimadores (amostra finita);
+    - Avaliação de estimadores (assintóticos).
 <!--
   - [Aula 1.1](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula11.pdf): Regressão Linear Simples e Mínimos Quadrados Ordinários. <br>
   - [Aula 1.2](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula12.pdf): Regressão Linear Múltipla (Estimação e Inferência). <br>
