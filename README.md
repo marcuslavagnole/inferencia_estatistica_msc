@@ -19,12 +19,12 @@ Aula 0.1: Revisão. <br>
 Aula 0.2: Introdução. <br>
 
 **Parte 1**: <br>
-  - Módulo 1: Princípios de redução de dados.
+  - Princípios de redução de dados.
     - Suficiência;
     - Verossimilhança;
     - Equivariância.
-  - Módulo 2: Inferência bayesiana.
-  - Módulo 3: Estimação pontual.
+  - Inferência bayesiana.
+  - Estimação pontual.
     - Métodos de estimação;
     - Avaliação de estimadores (amostra finita);
     - Avaliação de estimadores (assintóticos).
