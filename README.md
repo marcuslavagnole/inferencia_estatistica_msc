@@ -23,7 +23,7 @@ As notas de aula serão atualizadas à medida que o curso avançar.
 
 ### Parte I - Princípios Fundamentais da Inferência
 
-#### Redução de Dados
+#### Princípios de Redução de Dados
 
 **Parte 1**: <br>
   - Princípios de redução de dados.
