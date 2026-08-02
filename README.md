@@ -15,11 +15,9 @@ A avaliação será composta por 2 provas, que corresponderão a 80% da nota fin
 
 As [notas de aula](https://github.com/marcuslavagnole/inferencia_estatistica_msc/tree/main/aulas/) serão atualizadas à medida que o curso avançar.
 
-### Revisão: 
-
-    - Conceitos fundamentais e convergência.
-
-**Introdução**: Modelo estatístico, distribuições discretas e contínuas, famílias exponencial, famílias locação e escala.
+### Introdução: 
+- Revisão;
+- Modelo Estatístico.
 
 ### Parte I - Princípios Fundamentais da Inferência
 - Princípio da suficiência;
