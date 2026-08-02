@@ -23,9 +23,9 @@ As notas de aula serão atualizadas à medida que o curso avançar.
 
 ### Parte I - Princípios Fundamentais da Inferência
 - Princípio da suficiência
-    - Princípio da verossimilhança;
-    - Princípio da equivariância;
-    - Inferência bayesiana.
+- Princípio da verossimilhança;
+- Princípio da equivariância;
+- Inferência bayesiana.
 
 ### Parte II - Estimação pontual
     - Métodos de estimação;
