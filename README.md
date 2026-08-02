@@ -36,6 +36,8 @@ As [notas de aula](https://github.com/marcuslavagnole/inferencia_estatistica_msc
 
 ## Listas de Exercícios
 
+As [listas de exercícios](https://github.com/marcuslavagnole/inferencia_estatistica_msc/tree/main/aulas/) serão atualizadas à medida que o curso avançar.
+
   - Lista 1: . <br>
   - Lista 2: . <br>
   - Lista 3: . <br>
