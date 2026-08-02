@@ -22,7 +22,7 @@ As notas de aula serão atualizadas à medida que o curso avançar.
 **Introdução**: Modelo estatístico, distribuições discretas e contínuas, famílias exponencial, famílias locação e escala.
 
 ### Parte I - Princípios Fundamentais da Inferência
-    - Princípio da suficiência
+- Princípio da suficiência
     - Princípio da verossimilhança;
     - Princípio da equivariância;
     - Inferência bayesiana.
