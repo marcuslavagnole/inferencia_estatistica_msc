@@ -15,8 +15,9 @@ A avaliação será composta por 2 provas, que corresponderão a 80% da nota fin
 
 As notas de aula serão atualizadas à medida que o curso avançar.
 
-Aula 0.1: Revisão. <br>
-Aula 0.2: Introdução. <br>
+**Revisão**: Conceitos fundamentais e Convergência.
+
+**Introdução**: Modelo estatístico, distribuições discretas e contínuas, famílias exponencial, famílias locação e escala.
 
 **Parte 1**: <br>
   - Princípios de redução de dados.
