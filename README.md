@@ -28,9 +28,9 @@ As notas de aula serão atualizadas à medida que o curso avançar.
 - Inferência bayesiana.
 
 ### Parte II - Estimação pontual
-    - Métodos de estimação;
-    - Propriedades em Amostra Finita;
-    - Propriedades Assintóticas.
+ - Métodos de estimação;
+ - Propriedades em Amostra Finita;
+ - Propriedades Assintóticas.
 
 ### Parte III - Testes de Hipóteses
 
