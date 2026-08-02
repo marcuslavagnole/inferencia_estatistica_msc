@@ -11,7 +11,7 @@ A avaliação será composta por 2 provas, que corresponderão a 80% da nota fin
 **Nota Final**: 0.2 x max{AC1,AC2} + 0.35 x A1 + 0.35 x A2 <br>
 -->
 
-## Notas de Aula
+## Estrutura do Curso
 
 As notas de aula serão atualizadas à medida que o curso avançar.
 
