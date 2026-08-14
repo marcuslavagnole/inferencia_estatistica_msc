@@ -16,7 +16,7 @@ A avaliação será composta por 2 provas, que corresponderão a 80% da nota fin
 As [notas de aula](https://github.com/marcuslavagnole/inferencia_estatistica_msc/tree/main/aulas/) serão atualizadas à medida que o curso avançar.
 
 ### Introdução: 
-- [Aula 01](): Revisão;
+- [Aula 01](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula01.pdf): Revisão;
 - [Aula 02](): Modelo Estatístico.
 
 ### Parte I - Princípios Fundamentais da Inferência
