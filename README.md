@@ -17,7 +17,7 @@ As [notas de aula](https://github.com/marcuslavagnole/inferencia_estatistica_msc
 
 ### Introdução: 
 - [Aula 01](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula01.pdf): Revisão;
-- [Aula 02](): Modelo Estatístico.
+- [Aula 02](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula02.pdf): Modelo Estatístico.
 
 ### Parte I - Princípios Fundamentais da Inferência
 - Princípio da suficiência;
