@@ -25,14 +25,17 @@ As [notas de aula](https://github.com/marcuslavagnole/inferencia_estatistica_msc
 - [Aula 05](): Ancilaridade e Completude;
 - 
 ### Parte II - Estimação pontual
+<!--
  - Métodos de estimação;
  - Propriedades em Amostra Finita;
  - Propriedades Assintóticas.
+-->
 
 ### Parte III - Testes de Hipóteses
 
 ### Parte IV - Estimação intervalar
 
+<!--
 ## Listas de Exercícios
 
 As [listas de exercícios](https://github.com/marcuslavagnole/inferencia_estatistica_msc/tree/main/aulas/) serão atualizadas à medida que o curso avançar.
@@ -43,6 +46,7 @@ As [listas de exercícios](https://github.com/marcuslavagnole/inferencia_estatis
   - Lista 4: . <br>
   - Lista 5: . <br>
   - Lista 6: . <br>
+-->
 
 ## Bibliografia
 
