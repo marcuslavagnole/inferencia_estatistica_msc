@@ -20,7 +20,7 @@ As [notas de aula](https://github.com/marcuslavagnole/inferencia_estatistica_msc
 - [Aula 02](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula02.pdf): Modelo Estatístico.
 
 ### Parte I - Princípios Fundamentais da Inferência
-- Princípio da suficiência;
+- [Aula 03](): Suficiência;
 - Princípio da verossimilhança;
 - Princípio da equivariância;
 - Inferência bayesiana.
