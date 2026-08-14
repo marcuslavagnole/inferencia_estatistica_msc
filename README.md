@@ -23,7 +23,7 @@ As [notas de aula](https://github.com/marcuslavagnole/inferencia_estatistica_msc
 - [Aula 03](): Suficiência e minimalidade;
 - [Aula 04](): Família Exponencial;
 - [Aula 05](): Ancilaridade e Completude;
-- 
+  
 ### Parte II - Estimação pontual
 <!--
  - Métodos de estimação;
