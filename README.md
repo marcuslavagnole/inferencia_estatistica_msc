@@ -20,9 +20,10 @@ As [notas de aula](https://github.com/marcuslavagnole/inferencia_estatistica_msc
 - [Aula 02](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula02.pdf): Modelo Estatístico.
 
 ### Parte I - Princípios Fundamentais de Inferência
-- [Aula 03](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula03.pdf): Suficiência e minimalidade;
+- [Aula 03](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula03.pdf): Suficiência e Minimalidade;
 - [Aula 04](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula04.pdf): Família Exponencial;
-- [Aula 05](): Ancilaridade e Completude;
+- Aula 05: Ancilaridade e Completude;
+- Aula 06: Estimador e Estimação não-viesada;
   
 ### Parte II - Estimação pontual
 <!--
