@@ -22,7 +22,7 @@ As [notas de aula](https://github.com/marcuslavagnole/inferencia_estatistica_msc
 ### Parte I - Princípios Fundamentais de Inferência
 - [Aula 03](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula03.pdf): Suficiência e Minimalidade;
 - [Aula 04](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula04.pdf): Família Exponencial;
-- Aula 05: Ancilaridade e Completude;
+- [Aula 05](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula05.pdf): Ancilaridade e Completude;
   - Famílias Locação e Escala: CB, Seção 3.5 
 - Aula 06: Estimador e Estimação não-viesada;
   
