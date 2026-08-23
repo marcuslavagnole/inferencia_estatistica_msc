@@ -53,9 +53,9 @@ As [listas de exercícios](https://github.com/marcuslavagnole/inferencia_estatis
 
 ### Bibliografia básica:
 
- - Casella, G., & Berger, R. (2024). Statistical Inference (2nd ed.). Chapman and Hall/CRC. <br>
+ - [CB] Casella, G., & Berger, R. (2024). Statistical Inference (2nd ed.). Chapman and Hall/CRC. <br>
 
 ### Bibliografia complementar:
 
- - Keener, R. W. (2010). Theoretical Statistics: Topics for a Core Course (1st ed.). Springer. <br> 
- - Lehmann, E. L., &  Casella, G. (1998). Theory of Point Estimation (2nd ed.). Springer.
+ - [KN] Keener, R. W. (2010). Theoretical Statistics: Topics for a Core Course (1st ed.). Springer. <br> 
+ - [LB] Lehmann, E. L., &  Casella, G. (1998). Theory of Point Estimation (2nd ed.). Springer.
