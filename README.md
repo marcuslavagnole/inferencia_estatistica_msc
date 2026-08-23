@@ -58,4 +58,4 @@ As [listas de exercícios](https://github.com/marcuslavagnole/inferencia_estatis
 ### Bibliografia complementar:
 
  - [KN] Keener, R. W. (2010). Theoretical Statistics: Topics for a Core Course (1st ed.). Springer. <br> 
- - [LB] Lehmann, E. L., &  Casella, G. (1998). Theory of Point Estimation (2nd ed.). Springer.
+ - [LB]  Lehmann, E. L., &  Casella, G. (1998). Theory of Point Estimation (2nd ed.). Springer.
