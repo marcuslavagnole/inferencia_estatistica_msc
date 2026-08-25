@@ -19,7 +19,7 @@ As [notas de aula](https://github.com/marcuslavagnole/inferencia_estatistica_msc
 - [Aula 01](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula01.pdf): Revisão;
 - [Aula 02](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula02.pdf): Modelo Estatístico.
 
-### Parte I - Princípios Fundamentais de Inferência
+### Parte I - Fundamentos de Estatística e Estimação Pontual
 - [Aula 03](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula03.pdf): Suficiência e Minimalidade;
 - [Aula 04](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula04.pdf): Família Exponencial;
 - [Aula 05](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula05.pdf): Ancilaridade e Completude;
@@ -27,18 +27,12 @@ As [notas de aula](https://github.com/marcuslavagnole/inferencia_estatistica_msc
 - Aula 06: Estimadores, critérios de avaliação (amostras finitas) e Teorema de Rao-Blackwell;
 - Aula 07: Estimação não-viesada;
   
-### Parte II - Estimação pontual
+### Parte II - Testes de Hipóteses e Estimação intervalar
 <!--
  - Métodos de estimação;
  - Propriedades em Amostra Finita;
  - Propriedades Assintóticas.
--->
 
-### Parte III - Testes de Hipóteses
-
-### Parte IV - Estimação intervalar
-
-<!--
 ## Listas de Exercícios
 
 As [listas de exercícios](https://github.com/marcuslavagnole/inferencia_estatistica_msc/tree/main/aulas/) serão atualizadas à medida que o curso avançar.
