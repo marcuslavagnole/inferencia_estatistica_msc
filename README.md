@@ -24,7 +24,7 @@ As [notas de aula](https://github.com/marcuslavagnole/inferencia_estatistica_msc
 - [Aula 04](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula04.pdf): Família Exponencial;
 - [Aula 05](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula05.pdf): Ancilaridade e Completude;
   - Famílias Locação e Escala: CB, Seção 3.5 
-- Aula 06: Estimadores e Estimação não-viesada;
+- [Aula 06](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula06.pdf): Estimadores e Estimação não-viesada;
 - Aula 07: Consistência e Eficiência;
   
 ### Parte II - Testes de Hipóteses e Estimação intervalar
