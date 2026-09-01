@@ -13,7 +13,7 @@ A avaliação será composta por 2 provas, que corresponderão a 80% da nota fin
 
 ## Estrutura do Curso
 
-As [notas de aula](https://github.com/marcuslavagnole/inferencia_estatistica_msc/tree/main/aulas/) serão atualizadas à medida que o curso avançar.
+As notas de aula serão atualizadas à medida que o curso avançar.
 
 
 - [Aula 00](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula00.pdf): Revisão.
