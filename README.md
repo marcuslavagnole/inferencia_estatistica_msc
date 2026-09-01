@@ -16,16 +16,16 @@ A avaliação será composta por 2 provas, que corresponderão a 80% da nota fin
 As [notas de aula](https://github.com/marcuslavagnole/inferencia_estatistica_msc/tree/main/aulas/) serão atualizadas à medida que o curso avançar.
 
 
-- [Aula 01](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula01.pdf): Revisão.
+- [Aula 00](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula01.pdf): Revisão.
 
 ### Parte I - Fundamentos de Estatística e Estimação Pontual
-- [Aula 02](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula02.pdf): Modelo Estatístico.
-- [Aula 03](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula03.pdf): Suficiência e Minimalidade;
-- [Aula 04](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula04.pdf): Família Exponencial;
-- [Aula 05](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula05.pdf): Ancilaridade e Completude;
+- [Aula 01](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula02.pdf): Modelo Estatístico.
+- [Aula 02](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula03.pdf): Suficiência e Minimalidade;
+- [Aula 03](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula04.pdf): Família Exponencial;
+- [Aula 04](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula05.pdf): Ancilaridade e Completude;
   - Famílias Locação e Escala: CB, Seção 3.5 
-- [Aula 06](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula06.pdf): Estimadores e Estimação não-viesada;
-- Aula 07: Consistência e Eficiência;
+- [Aula 05](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula06.pdf): Estimadores e Estimação não-viesada;
+- Aula 06: Consistência e Eficiência;
   
 ### Parte II - Testes de Hipóteses e Estimação intervalar
 <!--
