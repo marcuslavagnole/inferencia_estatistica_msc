@@ -15,11 +15,11 @@ A avaliação será composta por 2 provas, que corresponderão a 80% da nota fin
 
 As [notas de aula](https://github.com/marcuslavagnole/inferencia_estatistica_msc/tree/main/aulas/) serão atualizadas à medida que o curso avançar.
 
-### Introdução: 
-- [Aula 01](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula01.pdf): Revisão;
-- [Aula 02](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula02.pdf): Modelo Estatístico.
+
+- [Aula 01](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula01.pdf): Revisão.
 
 ### Parte I - Fundamentos de Estatística e Estimação Pontual
+- [Aula 02](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula02.pdf): Modelo Estatístico.
 - [Aula 03](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula03.pdf): Suficiência e Minimalidade;
 - [Aula 04](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula04.pdf): Família Exponencial;
 - [Aula 05](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula05.pdf): Ancilaridade e Completude;
