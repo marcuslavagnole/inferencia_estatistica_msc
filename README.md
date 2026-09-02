@@ -15,7 +15,6 @@ A avaliação será composta por 2 provas, que corresponderão a 80% da nota fin
 
 As notas de aula serão atualizadas à medida que o curso avançar.
 
-
 - [Aula 00](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula00.pdf): Revisão.
 
 ### Parte I - Fundamentos de Estatística e Estimação Pontual
@@ -44,6 +43,10 @@ As [listas de exercícios](https://github.com/marcuslavagnole/inferencia_estatis
   - Lista 5: . <br>
   - Lista 6: . <br>
 -->
+
+## Testes
+
+- [Teste 01](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/testes/Teste01.pdf): Suficiência, Família Exponencial, Ancilaridade e Completude;
 
 ## Bibliografia
 
