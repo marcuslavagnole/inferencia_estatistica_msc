@@ -15,16 +15,16 @@ A avaliação será composta por 2 provas, que corresponderão a 80% da nota fin
 
 As notas de aula serão atualizadas à medida que o curso avançar.
 
-- [Aula 00](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula00.pdf): Revisão.
+- [Aula 00](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula00.pdf): Revisão.                                 <!-- 2 aulas -->
 
 ### Parte I - Fundamentos de Estatística e Estimação Pontual
-- [Aula 01](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula01.pdf): Modelo Estatístico.
-- [Aula 02](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula02.pdf): Suficiência e Minimalidade;
-- [Aula 03](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula03.pdf): Família Exponencial;
-- [Aula 04](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula04.pdf): Ancilaridade e Completude;
+- [Aula 01](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula01.pdf): Modelo Estatístico.                      <!-- 1 aula -->
+- [Aula 02](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula02.pdf): Suficiência e Minimalidade;              <!-- 1 aula -->
+- [Aula 03](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula03.pdf): Família Exponencial;                     <!-- 1 aula -->
+- [Aula 04](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula04.pdf): Ancilaridade e Completude;               <!-- 1 aula -->
   - Famílias Locação e Escala: CB, Seção 3.5 
-- [Aula 05](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula05.pdf): Estimador e Estimação não-viesada;
-- Aula 06: Consistência e Eficiência;
+- [Aula 05](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula05.pdf): Estimador e Estimação não-viesada;       <!-- 1 aula -->
+- Aula 06: Consistência e Eficiência;                                                                                                           <!-- 2 aulas -->
   
 ### Parte II - Testes de Hipóteses e Estimação intervalar
 <!--
