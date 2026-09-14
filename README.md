@@ -25,7 +25,7 @@ As notas de aula serão atualizadas à medida que o curso avançar.
   - Famílias Locação e Escala: CB, Seção 3.5 
 - [Aula 05](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula05.pdf): Redução de Risco e Estimação não-viesada; <!-- 1 aula -->
 - Aula 06: Consistência e Eficiência Relativa Assintótica;
-- Aula 07: Consistência e Eficiência Relativa Assintótica;                                                                                                            <!-- 2 aulas -->
+- Aula 07: ;                                                                                                            <!-- 2 aulas -->
   
 ### Parte II - Testes de Hipóteses e Estimação intervalar
 <!--
