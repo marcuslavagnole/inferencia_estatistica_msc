@@ -28,7 +28,7 @@ As notas de aula serão atualizadas à medida que o curso avançar.
 - Aula 07: Função de Verossimilhança e Informação de Fisher;
   - Princípio da Verossimilhança (Formal): CB, 6.3.2                                                                                                           
   
-### Parte II - Testes de Hipóteses e Estimação intervalar
+### Parte II - Estimação intervalar e Testes de Hipóteses
 <!--
  - Métodos de estimação;
  - Propriedades em Amostra Finita;
