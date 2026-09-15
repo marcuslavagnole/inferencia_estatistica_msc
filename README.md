@@ -24,7 +24,7 @@ As notas de aula serão atualizadas à medida que o curso avançar.
 - [Aula 04](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula04.pdf): Ancilaridade e Completude;                <!-- 1 aula -->
   - Famílias Locação e Escala: CB, Seção 3.5 
 - [Aula 05](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula05.pdf): Estimador e Estimação não-viesada;
-- [Aula 06](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula06.pdf): Consistência e Eficiência;                                                                                    <!-- 2 aulas -->
+- [Aula 06](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula06.pdf): Consistência e Método Delta;                                                                                    <!-- 2 aulas -->
 - Aula 07: Função de Verossimilhança e Informação de Fisher;
   - Princípio da Verossimilhança (Formal): CB, 6.3.2                                                                                                           
   
