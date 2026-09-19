@@ -46,6 +46,10 @@ As [listas de exercícios](https://github.com/marcuslavagnole/inferencia_estatis
   - Lista 6: . <br>
 -->
 
+
+### Parte III - Inferência Bayesiana
+
+
 ## Testes
 
 - [Teste 01](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/testes/Teste01.pdf): Suficiência, Família Exponencial, Ancilaridade e Completude;
