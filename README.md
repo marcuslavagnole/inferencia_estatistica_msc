@@ -59,7 +59,7 @@ As [listas de exercícios](https://github.com/marcuslavagnole/inferencia_estatis
 
 ### Bibliografia básica:
 
- - [CB] Casella, G., & Berger, R. (2002). Statistical Inference (2nd ed.). Chapman and Hall/CRC. <br>
+ - [CB] Casella, G., & Berger, R. (2002). Statistical Inference (2nd ed.). Duxbury Press. <br>
 
 ### Bibliografia complementar:
 
