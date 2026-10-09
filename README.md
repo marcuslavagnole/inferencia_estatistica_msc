@@ -59,7 +59,7 @@ As [listas de exercícios](https://github.com/marcuslavagnole/inferencia_estatis
 
 ## Listas
 
-- [Lista de revisão 01](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/listas/ListaRevisao01.pdf): Fundamentos de Estatística e Estimação Pontual;
+- [Lista de revisão 01](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/listas/ListadeRevisao01.pdf): Fundamentos de Estatística e Estimação Pontual;
 
 ## Provas
 
