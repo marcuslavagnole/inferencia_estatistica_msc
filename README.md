@@ -57,6 +57,14 @@ As [listas de exercícios](https://github.com/marcuslavagnole/inferencia_estatis
 - [Teste 01](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/testes/Teste01.pdf): Suficiência, Família Exponencial, Ancilaridade e Completude;
 - [Teste 02](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/testes/Teste02.pdf): Estimadores; Informação de Fisher; Método Delta;
 
+## Listas
+
+- [Lista de revisão 01](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/listas/ListaRevisao01.pdf): Fundamentos de Estatística e Estimação Pontual;
+
+## Provas
+
+- [Prova 01](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/provas/Prova01.pdf): Fundamentos de Estatística e Estimação Pontual;
+
 ## Bibliografia
 
 ### Bibliografia básica:
