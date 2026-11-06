@@ -28,7 +28,9 @@ As notas de aula serão atualizadas à medida que o curso avançar.
   - Princípio da Verossimilhança (Formal): CB, 6.3.2
 - [Aula 07](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula07.pdf): Consistência e Método Delta;                      <!-- 2 aulas -->
 - [Aula 08](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula08.pdf): Estimador de Máxima Verossimilhança;              <!-- 2 aulas -->
-- Aula 09: Método dos Momentos;              <!-- 1 aula  -->                                                                                                        
+- Aula 09: Método dos Momentos;              <!-- 1 aula  
+- [Aula 10](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula10.pdf): Intervalos de Confiança;              <!-- 2 aulas -->
+-->                                                                                                        
   
 ### Parte II - Estimação intervalar e Testes de Hipóteses
 <!--
