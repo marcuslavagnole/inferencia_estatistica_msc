@@ -17,7 +17,6 @@ As notas de aula serão atualizadas à medida que o curso avançar.
 
 - [Aula 00](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula00.pdf): Revisão.                                          <!-- 2 aulas -->
 
-### Parte I - Fundamentos de Estatística e Estimação Pontual
 - [Aula 01](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula01.pdf): Modelo Estatístico.                               <!-- 1 aula  -->
 - [Aula 02](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula02.pdf): Suficiência e Minimalidade;                       <!-- 1 aula  -->
 - [Aula 03](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula03.pdf): Família Exponencial;                              <!-- 1 aula  -->
@@ -29,13 +28,10 @@ As notas de aula serão atualizadas à medida que o curso avançar.
 - [Aula 07](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula07.pdf): Consistência e Método Delta;                      <!-- 2 aulas -->
 - [Aula 08](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula08.pdf): Estimador de Máxima Verossimilhança;              <!-- 2 aulas -->
 - Aula 09: Método dos Momentos;              <!-- 1 aula  -->
-- [Aula 10](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula10.pdf): Intervalos de Confiança;                                                                                                          
   
-### Parte II - Estimação intervalar e Testes de Hipóteses
-<!--
- - Métodos de estimação;
- - Propriedades em Amostra Finita;
- - Propriedades Assintóticas.
+- [Aula 10](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula10.pdf): Intervalos de Confiança; <!-- 3 aulas + 1 extra de IC + estatística suficiente; EMV e MoM e estatística suficiente  -->
+- Aula 11: Teste de Hipóteses                                                                                                      
+
 
 ## Listas de Exercícios
 
