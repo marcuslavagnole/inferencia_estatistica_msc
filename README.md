@@ -43,7 +43,6 @@ As [listas de exercícios](https://github.com/marcuslavagnole/inferencia_estatis
   - Lista 4: . <br>
   - Lista 5: . <br>
   - Lista 6: . <br>
--->
 
 
 ### Parte III - Inferência Bayesiana
