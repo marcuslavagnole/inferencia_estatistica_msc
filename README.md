@@ -32,7 +32,7 @@ As notas de aula serão atualizadas à medida que o curso avançar.
 - [Aula 10](https://github.com/marcuslavagnole/inferencia_estatistica_msc/blob/main/aulas/Aula10.pdf): Intervalos de Confiança; <!-- 3 aulas + 1 extra de IC + estatística suficiente; EMV e MoM e estatística suficiente  -->
 - Aula 11: Teste de Hipóteses                                                                                                      
 
-
+<!--
 ## Listas de Exercícios
 
 As [listas de exercícios](https://github.com/marcuslavagnole/inferencia_estatistica_msc/tree/main/aulas/) serão atualizadas à medida que o curso avançar.
@@ -47,7 +47,7 @@ As [listas de exercícios](https://github.com/marcuslavagnole/inferencia_estatis
 
 
 ### Parte III - Inferência Bayesiana
-
+-->
 
 ## Testes
 
